@@ -20,3 +20,6 @@ img{
   float: right;
   background-color: pink;
 }
+.text-box{
+  border: 2px solid red;
+}
