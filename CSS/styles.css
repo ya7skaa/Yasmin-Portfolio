@@ -13,7 +13,7 @@ h2{
   font-style: italic;
 }
 img{
-  float: right;
+  float: left;
 }
 .sidebar{
   width: 20%;
@@ -22,4 +22,6 @@ img{
 }
 .text-box{
   border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
 }
