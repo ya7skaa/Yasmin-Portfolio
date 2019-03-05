@@ -1,10 +1,12 @@
 h1{
-  text-align: center;
-  color: darkred;
+text-align: center;
+  color: #913535;
+  text-decoration: underline;
 }
 h2{
-  color: pink;
+  color: #1b335f;
   text-align: center;
+  text-decoration: underline;
 }
 .me{
   color: salmon;
@@ -20,8 +22,16 @@ img{
   float: right;
   background-color: pink;
 }
-.text-box{
-  border: 2px solid red;
-  padding: 6px;
-  margin: 20px;
+
+.jumbotron{
+  background-color: #fed9ca;
+}
+.well{
+  background-color: #fed9ca;
+}
+body{
+  background-color: #8fbbaf;
+}
+#photo{
+  padding-top: 40px;
 }
